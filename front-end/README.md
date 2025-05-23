@@ -44,11 +44,7 @@ src/
 
 ## 🛠️ Getting Started
 
-### 1. Clone the Repository
 
-```bash
-git clone https://github.com/piyushrai7271/Basic-Application.git
-cd Basic-Application/front-end
 
 
 Backend URL: http://localhost:5000
