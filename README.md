@@ -54,4 +54,21 @@ A single-page React application demonstrating front-end architecture, token-base
 ---
 
 ## 📁 Folder Structure (Example)
-
+## FRONT_END FOLDER STRUCTURE
+src/
+├── assets/ # Static files (optional)
+├── components/ # Reusable UI components
+│ ├── Chatbot.jsx
+│ ├── Chatbot.css
+│ └── DarkModeToggle.jsx
+├── pages/ # Page components
+│ ├── Home.jsx / Home.css
+│ ├── Login.jsx
+│ └── Signup.jsx
+├── App.jsx # Main application component
+├── App.css
+├── main.jsx # Entry point
+├── RefrrshHandler.js # Token/session handler
+├── utils.jsx # Helper functions
+└── index.css # Global styles
+ 
